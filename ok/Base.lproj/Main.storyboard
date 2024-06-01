@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="1mu-66-whU">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="8s0-uN-oHT">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
@@ -68,6 +68,9 @@
                                         </fragment>
                                     </attributedString>
                                 </buttonConfiguration>
+                                <connections>
+                                    <segue destination="1mu-66-whU" kind="show" id="4jd-Jh-1cU"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -120,10 +123,11 @@
                             <outlet property="delegate" destination="1mu-66-whU" id="hNQ-lf-4yS"/>
                         </connections>
                     </tableView>
+                    <navigationItem key="navigationItem" id="HM0-S6-46h"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Cfr-4R-fH0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2509" y="-463"/>
+            <point key="canvasLocation" x="356" y="-449"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="5CO-G3-Pu4">
