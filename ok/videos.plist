@@ -3,44 +3,44 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>LE SSERAFIM &apos;EASY&apos;</key>
-		<string>Sample Video 1</string>
+		<key>title</key>
+		<string>LE SSERAFIM &apos;EASY&apos;</string>
 		<key>url</key>
 		<string>https://www.youtube.com/watch?v=6cS7ks0rG8A</string>
 	</dict>
 	<dict>
-		<key>NMIXX &apos;DASH&apos;</key>
-		<string>Sample Video 1</string>
+		<key>title</key>
+		<string>NMIXX &apos;DASH&apos;</string>
 		<key>url</key>
 		<string>https://www.youtube.com/watch?v=4K8QOUD5UB0</string>
 	</dict>
 	<dict>
-		<key>Kep1er &apos;WA DA DA&apos;</key>
-		<string>Sample Video 1</string>
+		<key>title</key>
+		<string>Kep1er &apos;WA DA DA&apos;</string>
 		<key>url</key>
 		<string>https://www.youtube.com/watch?v=oHVfbG9NDB8&amp;t=0s</string>
 	</dict>
 	<dict>
-		<key>aespa &apos;Girls&apos;</key>
-		<string>Sample Video 1</string>
+		<key>title</key>
+		<string>aespa &apos;Girls&apos;</string>
 		<key>url</key>
 		<string>https://www.youtube.com/watch?v=nVAMV4cepVU</string>
 	</dict>
 	<dict>
-		<key>SOMI - &apos;DUMB DUMB&apos;</key>
-		<string>Sample Video 1</string>
+		<key>title</key>
+		<string>SOMI - &apos;DUMB DUMB&apos;</string>
 		<key>url</key>
 		<string>https://www.youtube.com/watch?v=3ptMV-z_yqc</string>
 	</dict>
 	<dict>
-		<key>IVE &apos;I AM&apos;</key>
-		<string>Sample Video 1</string>
+		<key>title</key>
+		<string>IVE &apos;I AM&apos;</string>
 		<key>url</key>
 		<string>https://www.youtube.com/watch?v=hHG9QORfgFI</string>
 	</dict>
 	<dict>
-		<key>NMIXX &apos;Love Me Like This&apos;</key>
-		<string>Sample Video 2</string>
+		<key>title</key>
+		<string>NMIXX &apos;Love Me Like This&apos;</string>
 		<key>url</key>
 		<string>https://www.youtube.com/watch?v=0l9c6J9EJDU</string>
 	</dict>
