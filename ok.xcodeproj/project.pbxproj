@@ -14,6 +14,8 @@
 		6B2BF9A52C0A441E00898FAF /* ok.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6B2BF9A32C0A441E00898FAF /* ok.xcdatamodeld */; };
 		6B2BF9A72C0A441F00898FAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B2BF9A62C0A441F00898FAF /* Assets.xcassets */; };
 		6B2BF9AA2C0A441F00898FAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B2BF9A82C0A441F00898FAF /* LaunchScreen.storyboard */; };
+		6B7C18B62C0BD34700464BCF /* YoutubeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B7C18B52C0BD34700464BCF /* YoutubeViewController.swift */; };
+		6B7C18BA2C0BD53900464BCF /* videos.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6B7C18B92C0BD53900464BCF /* videos.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		6B2BF9A62C0A441F00898FAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B2BF9A92C0A441F00898FAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B2BF9AB2C0A441F00898FAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B7C18B52C0BD34700464BCF /* YoutubeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeViewController.swift; sourceTree = "<group>"; };
+		6B7C18B92C0BD53900464BCF /* videos.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = videos.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				6B2BF9A82C0A441F00898FAF /* LaunchScreen.storyboard */,
 				6B2BF9AB2C0A441F00898FAF /* Info.plist */,
 				6B2BF9A32C0A441E00898FAF /* ok.xcdatamodeld */,
+				6B7C18B52C0BD34700464BCF /* YoutubeViewController.swift */,
+				6B7C18B92C0BD53900464BCF /* videos.plist */,
 			);
 			path = ok;
 			sourceTree = "<group>";
@@ -128,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B7C18BA2C0BD53900464BCF /* videos.plist in Resources */,
 				6B2BF9AA2C0A441F00898FAF /* LaunchScreen.storyboard in Resources */,
 				6B2BF9A72C0A441F00898FAF /* Assets.xcassets in Resources */,
 				6B2BF9A22C0A441E00898FAF /* Main.storyboard in Resources */,
@@ -143,6 +150,7 @@
 			files = (
 				6B2BF99F2C0A441E00898FAF /* ViewController.swift in Sources */,
 				6B2BF9A52C0A441E00898FAF /* ok.xcdatamodeld in Sources */,
+				6B7C18B62C0BD34700464BCF /* YoutubeViewController.swift in Sources */,
 				6B2BF99B2C0A441E00898FAF /* AppDelegate.swift in Sources */,
 				6B2BF99D2C0A441E00898FAF /* SceneDelegate.swift in Sources */,
 			);
